@@ -1,0 +1,9 @@
+  
+keras
+h5py
+tensorflow
+pillow
+numpy
+opencv-contrib-python
+seaborn
+flask
